@@ -1,0 +1,14 @@
+.places__link {
+  font-size: 18px;
+  line-height: 1.222;
+  font-weight: 400;
+  color: #fff;
+  text-decoration: none;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  transition: all 200ms ease-in-out;
+}
+
+.places__link:hover {
+  opacity: .8;
+}
